@@ -1,4 +1,4 @@
-import WeddingCountdown from "./components/hero";
+import WeddingCountdown from "./components/WeddingCountdown";
 
 function App() {
   return (
